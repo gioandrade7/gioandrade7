@@ -1,9 +1,8 @@
 ### Oii!! Me chamo Giovanna Andrade 👋
 
 - 🎓 Universidade Federal do Amazonas
-- 👩‍💻 Ciência da Computação - 8º período
-- 🌱 Estudando sobre Machine Learning e Data Science
-- 😄 Pronomes: ela/dela
+- 👩‍💻  Mestranda em Informática - PPGI
+- 🌱 Estudando sobre NLP e LLMs
 
 <div align="center">
   <a href="https://github.com/gioandrade7">
